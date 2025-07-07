@@ -35,7 +35,7 @@
 
 ## 🎓 Education
 
-- **M.Sc. in Data Science**, SRM University (2022–2025)  
+- **M.Tech. in Data Science**, SRM University (2022–2025)  
 - **B.E. in Mechanical Engineering**, Anna University (2016–2020)
 
 ---
